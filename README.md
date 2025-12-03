@@ -88,6 +88,25 @@ namespace CalculatorApp
     }
 }
 ```
+## 🚀 Установка и запуск программы
+
+### 1. Установите .NET SDK
+Скачайте с сайта: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
+
+**Проверьте установку:**
+```bash
+dotnet --version
+```
+### 2. Скачайте проект
+```bash
+git clone https://github.com/KirillPanchin/calculator-project.git
+cd calculator-project
+```
+### 3. Запустите программу
+```bash
+dotnet run
+```
+**Или откройте файл Program.cs в Visual Studio и нажмите F5.**
 
 ## 📚 Учебные ресурсы
 
